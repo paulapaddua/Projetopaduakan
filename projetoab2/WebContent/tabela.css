@@ -1,0 +1,18 @@
+@charset "ISO-8859-1";
+#tabela {
+	margin-top: 30px;
+	border-collapse: collapse;
+}
+
+#tabela th {
+	background-color: #66bbff;
+	color: #fff;
+	border: 1px solid #ddd;
+	padding: 5px;
+	text-align: left;
+}
+
+#tabela td {
+	border: 1px solid #ddd;
+	padding: 10px;
+}
